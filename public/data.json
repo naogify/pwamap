@@ -1,29 +1,7 @@
 {
-  "range": "'スポットデータ'!A1:J84",
-  "majorDimension": "ROWS",
-  "values": [
-    [
-      "タイムスタンプ",
-      "カテゴリ",
-      "画像",
-      "緯度",
-      "経度",
-      "スポット名",
-      "紹介文",
-      "Instagram",
-      "Twitter",
-      "公式サイト"
-    ],
-    [
-      "2022/05/11 14:46:34",
-      "オフィス",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Osaka_Kansai_Int%27l_Airport_Terminal1_%2817567741930%29.jpg/1280px-Osaka_Kansai_Int%27l_Airport_Terminal1_%2817567741930%29.jpg",
-      "34.43482392",
-      "135.2352072",
-      "関西国際空港",
-      "関西国際空港（かんさいこくさいくうこう、英: Kansai International Airport）は、大阪府大阪市の南西約40 kmに位置する国際空港。西日本の国際的な玄関口であり、関西三空港の一つとして大阪国際空港（伊丹空港）、神戸空港とともに関西エアポート株式会社によって一体運営が行われている。",
-      "",
-      "geoloniamap"
-    ]
-  ]
+  "error": {
+    "code": 503,
+    "message": "The service is currently unavailable.",
+    "status": "UNAVAILABLE"
+  }
 }
